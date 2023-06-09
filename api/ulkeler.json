@@ -23,7 +23,7 @@
         "yemek2":"Kaynıyarık",
         "yemekBilgi2": "Karnıyarık Türk mutfağının belli başlı patlıcan yemeklerinden biridir. Hazırlanırken ana malzeme olan patlıcanın dışında soğan, biber, domates ve kıyma da kullanılır. Benzeri bir patlıcan yemeği imambayıldıdır. İmambayıldının karnıyarıktan farkı içinde et olmaması ve soğuk olarak servis edilmesidir.",
 
-        "img6": "./img/photos/turkiyeTatlı.jpg",
+        "img6": "./img/photos/turkiyeTatlı1.jpg",
         "tatlı":"Baklava",
         "tatlıBilgi": "Baklava Türk, Orta Doğu, Balkan ve Güney Asya mutfaklarında yer etmiş önemli bir hamur tatlısıdır. İnce yufkaların arasına yöreye göre ceviz, antep fıstığı, badem veya fındık konarak yapılır. Genel olarak şeker şerbeti ile tatlandırılır. Ayrıca bal şerbeti de kullanılabilir."
     },
@@ -531,7 +531,7 @@
         "gezilecekYer1": "Grönland’in  Illulisat Kasabası",
         "gezilecekYerBilgi1":"Grönland’ın büyüklüğünü ve sunduğu gezi seçeneklerini düşündüğümüzde insan nereden başlayacağını şaşırıyor bir an. Ama ilk kez Grönland’i ziyaret edecekler için Illulisat şehri hem Grönland’da gezilecek yerler listesinde hemde gezinizin başlangıç noktası olmalı. Hem şehrin çok güzel olması, hem de Eqi Glasiyerine giden gemilerin buradan kalkması nedeniyle pek çok turistin öncelikli uğrak yeri.",
     
-        "img2": "./img/photos/grönlandGez1.jpg",
+        "img2": "./img/photos/grönlandGez1.jpg",
     
         "gezilecekYer2": "Doğu Grönland Ulusal Parkı",
     
@@ -637,7 +637,13 @@
     
         "yemek2":"Chikwanga",
     
-        "yemekBilgi2": "Chikwanga veya kwanga, kuru muz yapraklarına sarılıp buharda pişirilen manyok unlu keklerden oluşan, Demokratik Kongo Cumhuriyeti'nden geleneksel bir ekmektir. Tuzlu tadı, ülkedeki ana yemeklerin çoğuyla iyi uyum sağlar."
+        "yemekBilgi2": "Chikwanga veya kwanga, kuru muz yapraklarına sarılıp buharda pişirilen manyok unlu keklerden oluşan, Demokratik Kongo Cumhuriyeti'nden geleneksel bir ekmektir. Tuzlu tadı, ülkedeki ana yemeklerin çoğuyla iyi uyum sağlar.",
+
+        "img6": "./img/photos/kongoTatlı.jpg",
+    
+        "tatlı":"Saka Saka",
+    
+        "tatlıBilgi": "Orta Afrika’da saka saka, yeşil manyok yapraklardan yapılan yemeğe verilen addır. Yemeğin çok sayıda çeşidi olmasına rağmen, saka saka tabağı tipik olarak öğütülmüş veya hurma yağı, soğan, sarımsak, biber, bamya veya kuru balık, et, yer fıstığı gibi diğer ilavelerle birleştirilen taze manyok yapraklarını içerir."
     },
 
 
@@ -1131,7 +1137,7 @@
     
         "img3": "./img/photos/kolombiyaGez2.jpg",
     
-        "img4": "./img/photos/kolombiyaYemek1jpg",
+        "img4": "./img/photos/kolombiyaYemek1.jpg",
     
         "yemek1":"Arepa de Queso",
     
